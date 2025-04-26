@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\MyFirstProject\\Backend\\Backend.csproj": {}
+    "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\PrinterWEBAPI\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\MyFirstProject\\Backend\\Backend.csproj": {
+    "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\PrinterWEBAPI\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\MyFirstProject\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\PrinterWEBAPI\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\MyFirstProject\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\PrinterWEBAPI\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\Feodor Levashov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\MyFirstProject\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\Feodor Levashov\\Documents\\GitHub\\PrinterWEBAPI\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
